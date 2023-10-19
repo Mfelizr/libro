@@ -1,0 +1,2 @@
+Primer ejercicio para sincronizar con Git Hub
+2da. frase de prueba
